@@ -170,7 +170,7 @@ export default function Home() {
               <div className={styles.markdownanswer}>
                 <ReactMarkdown linkTarget="_blank">
                 I am happy to help you practice your IELTS speaking skills. 
-                Let's start with a topic of your choice. Please share a sentence or 
+                Let&apos;s start with a topic of your choice. Please share a sentence or 
                 a paragraph on the selected topic and I will provide feedback and 
                 corrections if needed.
                 </ReactMarkdown>
